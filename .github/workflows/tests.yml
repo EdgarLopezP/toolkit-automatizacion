@@ -1,4 +1,4 @@
-name: tests
+name: CI - Tests Automáticos
 on:
   push:
   pull_request:
