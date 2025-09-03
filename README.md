@@ -1,4 +1,4 @@
-# ⚙️ Toolkit de Automatización (CLI)
+# Toolkit de Automatización (CLI)
 
 [![Tests Automáticos](https://github.com/EdgarLopezP/toolkit-automatizacion/actions/workflows/python-app.yml/badge.svg)](https://github.com/EdgarLopezP/toolkit-automatizacion/actions)  
 [![Licencia MIT](https://img.shields.io/badge/Licencia-MIT-green.svg)](LICENSE)  
@@ -9,7 +9,7 @@ Incluye **scripts organizados, tests automatizados con Pytest y CI/CD con GitHub
 
 ---
 
-## 📂 Scripts incluidos
+## Scripts incluidos
 
 - **`organizador.py`** → Organiza archivos en subcarpetas por tipo (imágenes, documentos, datos, otros).  
   ```bash
