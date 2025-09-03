@@ -21,7 +21,7 @@ venv/
 *.swp
 *.swo
 
-# === Archivos temporales ===
+# === Archivos temporales del sistema ===
 .DS_Store
 Thumbs.db
 
