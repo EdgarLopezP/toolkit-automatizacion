@@ -1,11 +1,16 @@
-# Toolkit de Automatización (CLI)
-[![tests](https://github.com/EdgarLopezP/toolkit-automatizacion/actions/workflows/tests.yml/badge.svg)](https://github.com/EdgarLopezP/toolkit-automatizacion/actions/workflows/tests.yml)
+# ⚙️ Toolkit de Automatización (CLI)
 
-Colección de utilidades en **Python** para automatizar tareas comunes desde la línea de comandos.
+[![Tests Automáticos](https://github.com/EdgarLopezP/toolkit-automatizacion/actions/workflows/python-app.yml/badge.svg)](https://github.com/EdgarLopezP/toolkit-automatizacion/actions)  
+[![Licencia MIT](https://img.shields.io/badge/Licencia-MIT-green.svg)](LICENSE)  
+[![Python 3.10+](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)  
+
+Colección de utilidades en **Python (CLI)** para automatizar tareas comunes desde la línea de comandos.  
+Incluye **scripts organizados, tests automatizados con Pytest y CI/CD con GitHub Actions**.  
+
+---
 
 ## 📂 Scripts incluidos
 
-- **organizador.py** — organiza archivos en subcarpetas por tipo (imágenes, documentos, datos, otros).
+- **`organizador.py`** → Organiza archivos en subcarpetas por tipo (imágenes, documentos, datos, otros).  
   ```bash
   python3 src/organizador.py ./carpeta --dry-run
-
